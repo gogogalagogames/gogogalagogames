@@ -56,7 +56,7 @@ var thumbnails = new Splide('#thumbnail-carousel', {
             fixedHeight: 44,
         },
     },
-    autoplay: true,
+    autoplay: false,
     pauseOnHover: true,
 
 
