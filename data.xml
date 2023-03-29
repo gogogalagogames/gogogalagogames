@@ -21,35 +21,31 @@
 	</socials>
 
 	<description>	
-		Go Go Galago Games is a small indie-dev studio working on its first game, Bloody Resolve. Bloody Resolve is a difficult, 2D, boss rush, Action-RPG.  
+		Go Go Galago Games is a small indie-dev team made up of Mikkel Montoya & Dani Felix. They are currently hard at work on their game, CORR, which is a difficult, 2D, boss rush, Action-RPG set in a bizarre world where everything has lost the ability to truly die. 
 	</description>
 		
 	<histories>
+	<!--
 		<history>
 			<header>Early history</header>
 			<text>Before </text>
 		</history>
+		-->
 		<history>
-			<header>After that</header>
-			<text>Lorem ipsum dolor sit amet, consecdlkfjglskfjglskjdfljslkdfjiiiiiiiiiiiiiiiiiiiiiiiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaquat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.</text>
+			<header>Current History</header>
+			<text>As part of their computer science studies, Dani and Mikkel were given the awesome opportunity of interning in their own Company, which lead to them founding Go Go Galago Games. Driven by their passion for all things game development, production on CORR began mid August 2022. The goal with CORR was to provide the world with the best Boss Rush game the world has seen, which continues to be their primary objective. Apart from a three month internship by Ruuben Sonn, CORR continues to be developed by a two man dev team.</text>
 		</history>
 	</histories>
 		
 	<trailers>
 		<trailer>
-			<name>This video is nice!</name>
+			<name>Announce Trailer</name>
 			<youtube>
-				https://youtu.be/dbEF8Hqi46g
+				xAOTmZggdcg
 			</youtube>
 		</trailer>
-		<trailer>
-			<name>This one too!</name>
-			<youtube>
-				BbH7tJXuizk
-		</youtube>
-		</trailer>
 	</trailers>
-
+<!--
 	<awards>
 		<award>
 			<description>Winner in this highly relevant contest.</description>
@@ -69,7 +65,9 @@
 		</award>
 	</awards>
 	 
-	
+	-->
+
+	<!--
 	<quotes>
 		<quote>
 			<description>This is a rather insignificant quote by a highly important person.</description>
@@ -96,7 +94,7 @@
 			<link>http://thispage.net/angrytube</link>
 		</quote>
 	</quotes>
-	
+	-->
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
 																			 	ask (permission on case-per-case basis),
@@ -104,9 +102,9 @@
 																			 	monetize (full permission) -->	
 	<additionals>
 		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>Website</title>
+			<description>Here is a link to our website: </description>
+			<link>https://gogogalagogames.com/</link>
 		</additional>
 	</additionals>
 	
@@ -119,13 +117,15 @@
 		</credit>
 		<credit>
 			<person>Mikkel</person>
+			<!--
 			<website>www.olivertwist.com</website>
-			<role>Programmer, Sound and Music </role>
+			-->
+			<role>Programmer, Web development, Sound and Music Composer </role>
 		</credit>
 		<credit>
 			<person>Ruuben</person>
-			<website>sdfsdf</website>
-			<role>Intern, Environment Artist</role>
+			<website>https://rubj.artstation.com/</website>
+			<role>Intern, Environment & Effects Artist, Cool Dude</role>
 		</credit>
 	</credits>
 	
