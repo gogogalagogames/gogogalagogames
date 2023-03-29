@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
-<game>	
+<company>	
 	<title>Go Go Galago Games</title>
 	<founding-date>July 6, 2022</founding-date>
 	<website>http://www.gogogalagogames.com</website>
@@ -143,4 +143,4 @@
 			<link>gogogalagogames.com</link>
 		</contact>
 	</contacts>
-</game>
+</company>
