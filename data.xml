@@ -4,7 +4,7 @@
 <company>	
 	<title>Go Go Galago Games</title>
 	<founding-date>July 6, 2022</founding-date>
-	<website>http://www.gogogalagogames.com</website>
+	<website>http://gogogalagogames.com</website>
 	<based-in>Grenaa, Denmark</based-in>
 	
 	<press-contact>gogogalagogames@gmail.com</press-contact>
@@ -35,20 +35,7 @@
 			<text>As part of their computer science studies, Dani and Mikkel were given the awesome opportunity of interning in their own Company, which lead to them founding Go Go Galago Games. Driven by their passion for all things game development, production on CORR began mid August 2022. The goal with CORR was to provide the world with the best Boss Rush game the world has seen, which continues to be their primary objective. Apart from a three month internship by Ruuben Sonn, CORR continues to be developed by a two man dev team.</text>
 		</history>
 	</histories>
-		<projects>
-
-			  <h2> CORR</h2> 
-			    <p>
-                	<b>Plot: </b>
-                	 In the world of Zelanax, all living things has acquired immortality. This has caused the world to stagnate, and allowed for horrifying tyrants to dominate the world. Our hero, given the ability to trap the essence of living beings, becomes tasked with putting an end to eternity by killing its source, Corr.<br> 
-               	 <br>
-               	 <b>Release Date: </b> 2024.
-               	 <br><br>
-                	<b>Price: </b> To be determined.<br><br>
-                	<b>Platform: </b> Steam. <br><br>
-                	<b>Storepage: </b> [insert Store page link]<br>
-					</p>	
-		</Projects>	
+		
 		
 	<trailers>
 		<trailer>
@@ -115,9 +102,9 @@
 																			 	monetize (full permission) -->	
 	<additionals>
 		<additional>
-			<title>Website</title>
-			<description>Here is a link to our website: </description>
-			<link>https://gogogalagogames.com/</link>
+			<title>Extended Image Presskit</title>
+			<description>Here is an extended image presskit on Google Drive: </description>
+			<link>https://drive.google.com/drive/folders/109zkMFAJkAY9g8pi-KFMN4-EMEodGPAK?usp=share_link</link>
 		</additional>
 	</additionals>
 	
