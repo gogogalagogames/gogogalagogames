@@ -42,7 +42,18 @@
 .bg-logo-wrapper  img{
     box-shadow:inset 0px 0px 0px 1px blue;
 } */
-
+ul{
+    /* color: #acb2b8; */
+    margin:0;
+    padding: 0;
+    margin-left: 16px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+li{
+    margin-bottom: 8px;
+    list-style-position: outside;
+}
 html {
 
   }
