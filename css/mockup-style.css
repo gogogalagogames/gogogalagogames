@@ -1137,6 +1137,7 @@ footer{
 #twitter-widget-0{
     width:auto;
     min-width:0px!important;
+    max-height: 2020px;
 }
 .menu-0-thing{
     white-space:nowrap;
